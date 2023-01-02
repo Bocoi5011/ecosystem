@@ -1,12 +1,12 @@
 {
   "slug": "MyAppID",
-  "name": "My App Name",
+  "name": "My App Name",YoungChoi
   "description": "My App Description",
   "appUrl": "https://myapp.com",
   "contractAddresses": ["0x...."],
   "categories": ["game"],
   "email": "(optional) myemail@mail.com",
-  "social": {
+  "social": {Bocoi501@gmail.com 
     "twitter": "(optional) https://twitter.com/ID",
     "telegram": "(optional) https://t.me/ID",
     "discord": "(optional) https://discord.gg/ID"
